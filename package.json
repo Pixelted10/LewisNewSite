@@ -1,0 +1,28 @@
+{
+  "name": "lewisnewsite",
+  "version": "1.0.0",
+  "description": "My New Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pixelted10/LewisNewSite.git"
+  },
+  "author": "Lewis Cattle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pixelted10/LewisNewSite/issues"
+  },
+  "homepage": "https://github.com/Pixelted10/LewisNewSite#readme",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "less": "^2.7.3"
+  }
+}
